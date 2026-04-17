@@ -1,3 +1,5 @@
+// ignore_for_file: dead_code
+
 void main() {
   int a = 10;
   int b = 3;
